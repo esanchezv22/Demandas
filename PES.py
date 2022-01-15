@@ -159,6 +159,4 @@ if page == "Aplicación":
           
     
 if page == "Creditos":
-    st.image("Esteban.png")
-  
-   
+    st.image("Esteban.png")   
