@@ -56,8 +56,7 @@ def prep_data(df):
 
 if page == "Aplicación":
     
-    st.image("Logo_sodexo.png")
-      
+    
         
     
     st.title('Predictor de Demanda 🧚‍♀️')
