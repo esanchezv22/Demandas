@@ -12,7 +12,7 @@ from fbprophet.plot import plot_cross_validation_metric
 import json
 from fbprophet.serialize import model_to_json, model_from_json
 import holidays
-import vega
+
 
 import altair as alt
 import plotly as plt
